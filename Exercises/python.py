@@ -8,11 +8,10 @@
 
 #Первая игра на Python
 import random
-right_answer = int()
+right_answer = random.randint(1, 100)
 user_answer = None
 processed_answer = None
 while True:
-    right_answer = random.randint(1, 100)
     user_answer = input("Guess the number in diaposone 1 to 100!")
     try:
         processed_answer = int(user_answer)
@@ -29,3 +28,4 @@ while True:
         print("Too high! Try again.")
         continue
 input()
+

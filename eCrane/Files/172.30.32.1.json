@@ -1,0 +1,26 @@
+{
+  "Datacenter": "ekaterinburg",
+  "InfoProviderAddress": "172.30.32.1:50293",
+  "ExternalEmoivAddress": "172.30.32.1",
+  "GetLatestConciseReportsTake": 50,
+  "GetLatestConciseReportsSkip": 0,
+  "RefreshInterval": 1,
+  "TimeoutReadyMinutes": 30,
+  "Host": "0.0.0.0",
+  "Port": "5002",
+  "Reports": [
+    "АРНВ",
+    "НГ",
+    "НВ",
+    "ДКВ",
+    "КМП",
+    "ТК",
+    "ОД",
+    "ФК",
+    "ПН",
+    "НП",
+    "ЗО",
+    "СГНС",
+    "ОДВ"
+  ]
+}

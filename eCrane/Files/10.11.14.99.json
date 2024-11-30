@@ -1,0 +1,26 @@
+{
+  "Datacenter": "krasnoyarsk",
+  "InfoProviderAddress": "192.168.254.99:50293",
+  "ExternalEmoivAddress": "192.168.254.99",
+  "GetLatestConciseReportsTake": 50,
+  "GetLatestConciseReportsSkip": 0,
+  "RefreshInterval": 1,
+  "TimeoutReadyMinutes": 30,
+  "Host": "0.0.0.0",
+  "Port": "5002",
+  "Reports": [
+    "АРНВ",
+    "НГ",
+    "НВ",
+    "ДКВ",
+    "КМП",
+    "ТК",
+    "ОД",
+    "ФК",
+    "ПН",
+    "НП",
+    "ЗО",
+    "СГНС",
+    "ОДВ"
+  ]
+}

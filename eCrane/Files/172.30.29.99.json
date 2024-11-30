@@ -1,0 +1,16 @@
+{
+  "Datacenter": "smolensk",
+  "InfoProviderAddress": "172.30.29.99:50293",
+  "ExternalEmoivAddress": "172.30.29.99",
+  "GetLatestConciseReportsTake": 50,
+  "GetLatestConciseReportsSkip": 0,
+  "RefreshInterval": 1,
+  "TimeoutReadyMinutes": 30,
+  "Host": "172.30.29.81",
+  "Port": "5002",
+  "Reports": [
+    "АРНВ",
+    "ТК",
+    "ФК"
+  ]
+}

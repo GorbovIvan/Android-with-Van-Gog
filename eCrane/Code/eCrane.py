@@ -27,6 +27,7 @@ def draw_main_menu():
     menu.title("eCrane")
     menu.geometry("1080x675")
     menu = refrech_the_button(menu)
+    global change_color_button
     change_color_button = tkinter.Button(text="Change color", bg=colors[next_color], command=next_color)
     change_color_button.pack()
     menu.mainloop()

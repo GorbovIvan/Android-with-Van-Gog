@@ -5,13 +5,13 @@ van_gog = t.Pen()
 
 color = ["red", "blue", "green", "purple", "orange", "pink", "cyan", "gray", "black"]
 android.left(90)
-android.speed(100)
+android.speed(300)
 android.color("red")
 android.forward(100)
 android.pensize(10)
 
 van_gog.right(90)
-van_gog.speed(100)
+van_gog.speed(300)
 van_gog.color("green")
 van_gog.forward(100)
 van_gog.pensize(10)
